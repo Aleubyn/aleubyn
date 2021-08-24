@@ -30,7 +30,7 @@ url: "aleubyn.github.io" # the base hostname & protocol for your site, e.g. http
 github_username:  aleubyn
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
